@@ -155,7 +155,7 @@ This is a repo contributed by community with awesome resources for [Apache EChar
 
 ### Golang
 
-- 🇨🇳 [go-echarts](https://github.com/chenjiandongx/go-echarts) @chenjiandongx - The adorable charts library for Golang.
+- 🇨🇳 [go-echarts](https://github.com/go-echarts/go-echarts) @go-echarts - The adorable charts library for Golang.
 
 ### iOS
 
